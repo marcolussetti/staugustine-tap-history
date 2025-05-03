@@ -1,7 +1,7 @@
 [
   {
     "number": 58,
-    "remaining": 35,
+    "remaining": 28,
     "brewer": "Brew Hall Beer Co.",
     "name": "Kol Story Bro Kolsch",
     "colour": "#E8C252",
@@ -13,6 +13,23 @@
     "general_style": "Lagers and Pilsners",
     "general_style_colour": "#F1D744",
     "description": "This ale is cool fermented to create a smooth and refreshing beer with a crisp body and clean finish.",
+    "price": "8.75",
+    "is_currently_available": true
+  },
+  {
+    "number": 57,
+    "remaining": 63,
+    "brewer": "La Cerveceria Astilleros",
+    "name": "Salted Lime Lager",
+    "colour": "#F0C030",
+    "brewer_location": "North Vancouver, British Columbia",
+    "alcohol_by_volume": "4.6",
+    "ibu": 10,
+    "specific_style": "Lager",
+    "specific_style_colour": "#F1D744",
+    "general_style": "Lagers and Pilsners",
+    "general_style_colour": "#F1D744",
+    "description": "A light, latin american cerveza type beer with a modern twist. This is a crisp, clean lager made with Mexican limes and world-renowned salt sourced from El Valle Salado.",
     "price": "8.75",
     "is_currently_available": true
   },
@@ -35,7 +52,7 @@
   },
   {
     "number": 28,
-    "remaining": 85,
+    "remaining": 72,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Bohemian Rhapsody",
     "colour": "#b45c05",
@@ -52,7 +69,7 @@
   },
   {
     "number": 14,
-    "remaining": 26,
+    "remaining": 13,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Cannonball",
     "colour": "#f99836",
@@ -69,7 +86,7 @@
   },
   {
     "number": 17,
-    "remaining": 41,
+    "remaining": 8,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Cloud Nine",
     "colour": "#a76f06",
@@ -86,7 +103,7 @@
   },
   {
     "number": 19,
-    "remaining": 0,
+    "remaining": 87,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Lager",
     "colour": "#F09000",
@@ -103,7 +120,7 @@
   },
   {
     "number": 21,
-    "remaining": 62,
+    "remaining": 52,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Lager Lite",
     "colour": "#F09000",
@@ -120,7 +137,7 @@
   },
   {
     "number": 20,
-    "remaining": 89,
+    "remaining": 72,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Pilsner",
     "colour": "#FAC937",
@@ -133,6 +150,23 @@
     "general_style_colour": "#F1D744",
     "description": "Inspired by the traditional Czech Pilsner style,this beer is crisp and refreshing with a rich and complex bready maltiness complimented by the slightly spicy and floral hop character.",
     "price": "8.25",
+    "is_currently_available": true
+  },
+  {
+    "number": 6,
+    "remaining": 89,
+    "brewer": "Parallel 49 Brewing Company",
+    "name": "Dad's Day Off",
+    "colour": "#fcdc9f",
+    "brewer_location": "East Vancouver, British Columbia",
+    "alcohol_by_volume": "4.7",
+    "ibu": 13,
+    "specific_style": "Cream Ale",
+    "specific_style_colour": "#A83000",
+    "general_style": "Brown, Amber and Cream Ales",
+    "general_style_colour": "#A84800",
+    "description": "A cream ale, a beer that has the refreshing crispness of a lager and the satisfying subtle complexity of an ale. A gentle, soft grainy malt sweetness, a touch of corn, complemented with a delicate floral hop note. Crystal clear with straw colour.",
+    "price": "8.75",
     "is_currently_available": true
   },
   {
@@ -154,7 +188,7 @@
   },
   {
     "number": 23,
-    "remaining": 50,
+    "remaining": 42,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Filthy Dirty West Coast IPA",
     "colour": "#F0A830",
@@ -171,7 +205,7 @@
   },
   {
     "number": 56,
-    "remaining": 65,
+    "remaining": 58,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Ginja Turtles Sour",
     "colour": "#e9b567",
@@ -188,7 +222,7 @@
   },
   {
     "number": 18,
-    "remaining": 14,
+    "remaining": 4,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Golden Faucet",
     "colour": "#a76f06",
@@ -204,8 +238,25 @@
     "is_currently_available": true
   },
   {
+    "number": 13,
+    "remaining": 89,
+    "brewer": "Parallel 49 Brewing Company",
+    "name": "Just Chillin'",
+    "colour": "#d29626",
+    "brewer_location": "East Vancouver, British Columbia",
+    "alcohol_by_volume": "4.8",
+    "ibu": 23,
+    "specific_style": "Seasonal",
+    "specific_style_colour": "#F06000",
+    "general_style": "Seasonal Taps",
+    "general_style_colour": "#F06000",
+    "description": "A characterful yet easy-drinking rustic table saison. Fragrant fruity aroma of apricot, pear, bergamot, and light peppery spice notes from an authentic Belgian yeast. Very high carbonation makes it light and refreshing.",
+    "price": "8.75",
+    "is_currently_available": true
+  },
+  {
     "number": 49,
-    "remaining": 99,
+    "remaining": 92,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Limitless GF Lager",
     "colour": "#ecaa3c",
@@ -222,7 +273,7 @@
   },
   {
     "number": 5,
-    "remaining": 52,
+    "remaining": 45,
     "brewer": "Parallel 49 Brewing Company",
     "name": "N2 Craft Stout",
     "colour": "#000000",
@@ -239,7 +290,7 @@
   },
   {
     "number": 22,
-    "remaining": 34,
+    "remaining": 29,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Old Boy Classic Ale",
     "colour": "#301800",
@@ -256,7 +307,7 @@
   },
   {
     "number": 46,
-    "remaining": 65,
+    "remaining": 38,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Pink Power Sour",
     "colour": "#fd6d4d",
@@ -273,7 +324,7 @@
   },
   {
     "number": 24,
-    "remaining": 33,
+    "remaining": 22,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Space Kitty",
     "colour": "#F09000",
@@ -289,8 +340,25 @@
     "is_currently_available": true
   },
   {
+    "number": 15,
+    "remaining": 94,
+    "brewer": "Parallel 49 Brewing Company",
+    "name": "Superdelic Time Machine",
+    "colour": "#eaa118",
+    "brewer_location": "East Vancouver, British Columbia",
+    "alcohol_by_volume": "6.4",
+    "ibu": 39,
+    "specific_style": "India Pale Ale",
+    "specific_style_colour": "#F09000",
+    "general_style": "Pale Ales and IPAs",
+    "general_style_colour": "#CC8F00",
+    "description": "This heavily dryhopped hazy IPA showcases a new hop variety from New Zealand, Superdelic. We combined it with a yeast strain that enhances fruity thiol production with mash-hopping. High in passionfruit, mango, lime, gooseberry, sweet candy, and berry aroma. ",
+    "price": "8.75",
+    "is_currently_available": true
+  },
+  {
     "number": 9,
-    "remaining": 66,
+    "remaining": 59,
     "brewer": "Parallel 49 Brewing Company",
     "name": "The Red Light Sting",
     "colour": "#cf4a1f",
@@ -307,7 +375,7 @@
   },
   {
     "number": 25,
-    "remaining": 72,
+    "remaining": 62,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Trash Panda Northeast Hazy IPA",
     "colour": "#F09000",
@@ -324,7 +392,7 @@
   },
   {
     "number": 30,
-    "remaining": 31,
+    "remaining": 13,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Tricycle Grapefruit Radler",
     "colour": "#F79400",
@@ -341,7 +409,7 @@
   },
   {
     "number": 55,
-    "remaining": 91,
+    "remaining": 73,
     "brewer": "Parallel 49 Brewing Company",
     "name": "What's the Craic?",
     "colour": "#893906",
@@ -358,7 +426,7 @@
   },
   {
     "number": 12,
-    "remaining": 19,
+    "remaining": 12,
     "brewer": "Rewind Beer Co.",
     "name": "Rainbow Road",
     "colour": "#F09000",
@@ -375,7 +443,7 @@
   },
   {
     "number": 51,
-    "remaining": 92,
+    "remaining": 87,
     "brewer": "Slackwater Brewing",
     "name": "Idleback Amber Ale",
     "colour": "#7a3403",
@@ -392,7 +460,7 @@
   },
   {
     "number": 52,
-    "remaining": 61,
+    "remaining": 27,
     "brewer": "St. Augustine's",
     "name": "House Hazy IPA",
     "colour": "#B5A502",
@@ -409,7 +477,7 @@
   },
   {
     "number": 48,
-    "remaining": 38,
+    "remaining": 3,
     "brewer": "St. Augustine's",
     "name": "House Lager",
     "colour": "#F0D830",
@@ -426,7 +494,7 @@
   },
   {
     "number": 53,
-    "remaining": 64,
+    "remaining": 46,
     "brewer": "St. Augustine's",
     "name": "House Pale Ale",
     "colour": "#F0C030",
@@ -443,7 +511,7 @@
   },
   {
     "number": 10,
-    "remaining": 90,
+    "remaining": 88,
     "brewer": "Steamworks",
     "name": "Heroica Red Ale",
     "colour": "#781800",
@@ -460,7 +528,7 @@
   },
   {
     "number": 43,
-    "remaining": 61,
+    "remaining": 53,
     "brewer": "Steamworks",
     "name": "Killer Cucumber Ale",
     "colour": "#CC8F00",
@@ -477,7 +545,7 @@
   },
   {
     "number": 11,
-    "remaining": 51,
+    "remaining": 42,
     "brewer": "Steamworks",
     "name": "Nitro Stout",
     "colour": "#000000",
@@ -493,8 +561,25 @@
     "is_currently_available": true
   },
   {
-    "number": 60,
+    "number": 44,
     "remaining": 73,
+    "brewer": "Superflux Beer Co.",
+    "name": "Colour & Shape",
+    "colour": "#F79400",
+    "brewer_location": "Vancouver, British Columbia",
+    "alcohol_by_volume": "6.8",
+    "ibu": 40,
+    "specific_style": "India Pale Ale",
+    "specific_style_colour": "#F09000",
+    "general_style": "Pale Ales and IPAs",
+    "general_style_colour": "#CC8F00",
+    "description": "This is the kind of IPA we dream about. Unfiltered so nothing of the greatness gets lost. It is soft, with lots of tropical fruit notes and a touch of herbal quality. Incredibly drinkable and super delicious.",
+    "price": "8.75",
+    "is_currently_available": true
+  },
+  {
+    "number": 60,
+    "remaining": 64,
     "brewer": "The Parkside Brewery",
     "name": "Motel Pale Ale",
     "colour": "#F09000",
@@ -528,7 +613,7 @@
   },
   {
     "number": 7,
-    "remaining": 90,
+    "remaining": 73,
     "brewer": "Truck 59 Ciderhouse",
     "name": "Bourbon Blackberry",
     "colour": "#A86048",
@@ -545,7 +630,7 @@
   },
   {
     "number": 4,
-    "remaining": 91,
+    "remaining": 81,
     "brewer": "Truck 59 Ciderhouse",
     "name": "Five Alive Apple Cider",
     "colour": "#F5DF86",
