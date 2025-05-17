@@ -1,7 +1,7 @@
 [
   {
     "number": 58,
-    "remaining": 23,
+    "remaining": 22,
     "brewer": "Brew Hall Beer Co.",
     "name": "Kol Story Bro Kolsch",
     "colour": "#E8C252",
@@ -18,7 +18,7 @@
   },
   {
     "number": 57,
-    "remaining": 92,
+    "remaining": 88,
     "brewer": "La Cerveceria Astilleros",
     "name": "Salted Lime Lager",
     "colour": "#F0C030",
@@ -35,7 +35,7 @@
   },
   {
     "number": 26,
-    "remaining": 84,
+    "remaining": 83,
     "brewer": "Merridale Ciderworks",
     "name": "Apple Pie Cider",
     "colour": "#F5DF86",
@@ -69,7 +69,7 @@
   },
   {
     "number": 14,
-    "remaining": 16,
+    "remaining": 14,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Cannonball",
     "colour": "#f99836",
@@ -103,7 +103,7 @@
   },
   {
     "number": 19,
-    "remaining": 31,
+    "remaining": 30,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Lager",
     "colour": "#F09000",
@@ -120,7 +120,7 @@
   },
   {
     "number": 21,
-    "remaining": 92,
+    "remaining": 91,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Lager Lite",
     "colour": "#F09000",
@@ -137,7 +137,7 @@
   },
   {
     "number": 20,
-    "remaining": 64,
+    "remaining": 62,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Pilsner",
     "colour": "#FAC937",
@@ -171,7 +171,7 @@
   },
   {
     "number": 23,
-    "remaining": 29,
+    "remaining": 23,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Filthy Dirty West Coast IPA",
     "colour": "#F0A830",
@@ -188,7 +188,7 @@
   },
   {
     "number": 56,
-    "remaining": 58,
+    "remaining": 57,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Ginja Turtles Sour",
     "colour": "#e9b567",
@@ -239,7 +239,7 @@
   },
   {
     "number": 49,
-    "remaining": 57,
+    "remaining": 56,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Limitless GF Lager",
     "colour": "#ecaa3c",
@@ -256,7 +256,7 @@
   },
   {
     "number": 5,
-    "remaining": 48,
+    "remaining": 46,
     "brewer": "Parallel 49 Brewing Company",
     "name": "N2 Craft Stout",
     "colour": "#000000",
@@ -273,7 +273,7 @@
   },
   {
     "number": 22,
-    "remaining": 57,
+    "remaining": 56,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Old Boy Classic Ale",
     "colour": "#301800",
@@ -307,7 +307,7 @@
   },
   {
     "number": 24,
-    "remaining": 15,
+    "remaining": 14,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Space Kitty",
     "colour": "#F09000",
@@ -324,7 +324,7 @@
   },
   {
     "number": 15,
-    "remaining": 21,
+    "remaining": 19,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Superdelic Time Machine",
     "colour": "#eaa118",
@@ -408,6 +408,23 @@
     "is_currently_available": true
   },
   {
+    "number": 35,
+    "remaining": 100,
+    "brewer": "Rewind Beer Co.",
+    "name": "BIG West Coast IPA",
+    "colour": "#cd7e04",
+    "brewer_location": "Port Moody, British Columbia",
+    "alcohol_by_volume": "7.3",
+    "ibu": 65,
+    "specific_style": "India Pale Ale",
+    "specific_style_colour": "#F09000",
+    "general_style": "Pale Ales and IPAs",
+    "general_style_colour": "#CC8F00",
+    "description": "The 90’s called: they want their IPA back. With HUGE notes of dank pine, citrus & candied fruit, followed by an assertively BIG AND BOLD IPA bitterness, as it should be.",
+    "price": "8.25",
+    "is_currently_available": true
+  },
+  {
     "number": 51,
     "remaining": 15,
     "brewer": "Slackwater Brewing",
@@ -426,7 +443,7 @@
   },
   {
     "number": 52,
-    "remaining": 85,
+    "remaining": 75,
     "brewer": "St. Augustine's",
     "name": "House Hazy IPA",
     "colour": "#B5A502",
@@ -443,7 +460,7 @@
   },
   {
     "number": 48,
-    "remaining": 36,
+    "remaining": 100,
     "brewer": "St. Augustine's",
     "name": "House Lager",
     "colour": "#F0D830",
@@ -460,7 +477,7 @@
   },
   {
     "number": 53,
-    "remaining": 0,
+    "remaining": 88,
     "brewer": "St. Augustine's",
     "name": "House Pale Ale",
     "colour": "#F0C030",
@@ -477,7 +494,7 @@
   },
   {
     "number": 10,
-    "remaining": 42,
+    "remaining": 41,
     "brewer": "Steamworks",
     "name": "Heroica Red Ale",
     "colour": "#781800",
@@ -494,7 +511,7 @@
   },
   {
     "number": 43,
-    "remaining": 64,
+    "remaining": 63,
     "brewer": "Steamworks",
     "name": "Killer Cucumber Ale",
     "colour": "#CC8F00",
@@ -511,7 +528,7 @@
   },
   {
     "number": 8,
-    "remaining": 91,
+    "remaining": 100,
     "brewer": "Steamworks",
     "name": "Nitro Stout",
     "colour": "#000000",
@@ -528,7 +545,7 @@
   },
   {
     "number": 37,
-    "remaining": 84,
+    "remaining": 82,
     "brewer": "Steamworks",
     "name": "Raspberry Tangerine Gummy Sour",
     "colour": "#AE0322",
@@ -545,7 +562,7 @@
   },
   {
     "number": 44,
-    "remaining": 66,
+    "remaining": 63,
     "brewer": "Superflux Beer Co.",
     "name": "Colour & Shape",
     "colour": "#F79400",
@@ -561,19 +578,19 @@
     "is_currently_available": true
   },
   {
-    "number": 32,
-    "remaining": 1,
+    "number": 40,
+    "remaining": 99,
     "brewer": "The Parkside Brewery",
-    "name": "Dawn Pilsner",
-    "colour": "#F5DF86",
+    "name": "Dreamboat Hazy IPA",
+    "colour": "#F0A830",
     "brewer_location": "Port Moody, British Columbia",
-    "alcohol_by_volume": "4.9",
-    "ibu": 40,
-    "specific_style": "Pilsner",
-    "specific_style_colour": "#FAC937",
-    "general_style": "Lagers and Pilsners",
-    "general_style_colour": "#F1D744",
-    "description": "Paying homage to traditional German pilsners with their sublime balance between hop and malt. Old and new hop varieties make this appealing to both traditionalists and more adventurous pilsner lovers. ",
+    "alcohol_by_volume": "6.3",
+    "ibu": 35,
+    "specific_style": "India Pale Ale",
+    "specific_style_colour": "#F09000",
+    "general_style": "Pale Ales and IPAs",
+    "general_style_colour": "#CC8F00",
+    "description": "This limited release unfiltered IPA has waves of fresh melon and hand squeezed citrus notes from a happy blend of Cashmere, Lemondrop, Citra, and Azacca hops. A juicy treat that lingers like a hazy dream. ",
     "price": "8.75",
     "is_currently_available": true
   },
@@ -592,11 +609,11 @@
     "general_style_colour": "#CC8F00",
     "description": "This 5-hop Pale Ale is a hop-forward hazy Pale with heaps of tropical & berry notes that provide a crisp & balanced offering. Hints of lemon rind w/ this unique combination of hops provide a lingering citrus.",
     "price": "8.75",
-    "is_currently_available": true
+    "is_currently_available": false
   },
   {
     "number": 27,
-    "remaining": 70,
+    "remaining": 68,
     "brewer": "Tipsy Twig",
     "name": "Purple Rain Blackberry Cider",
     "colour": "#5f3292",
@@ -613,7 +630,7 @@
   },
   {
     "number": 29,
-    "remaining": 75,
+    "remaining": 71,
     "brewer": "Tipsy Twig",
     "name": "Tipsy Twig Dry Cider",
     "colour": "#f9e97a",
