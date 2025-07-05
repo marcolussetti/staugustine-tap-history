@@ -1,7 +1,7 @@
 [
   {
     "number": 29,
-    "remaining": 49,
+    "remaining": 44,
     "brewer": "Merridale Ciderworks",
     "name": "Cowichan Dry",
     "colour": "#F0F0C0",
@@ -17,8 +17,25 @@
     "is_currently_available": true
   },
   {
+    "number": 27,
+    "remaining": 88,
+    "brewer": "Merridale Ciderworks",
+    "name": "Merri Berri Cider",
+    "colour": "#770033",
+    "brewer_location": "Cobble Hill, British Columbia",
+    "alcohol_by_volume": "6.9",
+    "ibu": 0,
+    "specific_style": "Cider",
+    "specific_style_colour": "#F0F0C0",
+    "general_style": "Ciders And Gluten Free",
+    "general_style_colour": "#F0F0C0",
+    "description": "A refreshing blend of apple cider and the unfermented juices of a blend of BC berries and fruits. ",
+    "price": "10.25",
+    "is_currently_available": true
+  },
+  {
     "number": 28,
-    "remaining": 26,
+    "remaining": 10,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Bohemian Rhapsody",
     "colour": "#b45c05",
@@ -35,7 +52,7 @@
   },
   {
     "number": 43,
-    "remaining": 65,
+    "remaining": 62,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Budgy Smuggler XPA",
     "colour": "#f5e5a3",
@@ -52,7 +69,7 @@
   },
   {
     "number": 19,
-    "remaining": 73,
+    "remaining": 71,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Lager",
     "colour": "#F09000",
@@ -69,7 +86,7 @@
   },
   {
     "number": 21,
-    "remaining": 8,
+    "remaining": 4,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Lager Lite",
     "colour": "#F09000",
@@ -81,23 +98,6 @@
     "general_style": "Lagers and Pilsners",
     "general_style_colour": "#F1D744",
     "description": "A “light” version of P49’s Craft Lager…Clean, light-bodied, very refreshing and thirst-quenching pale lager. Low on both malt and hop flavour but not as flavourless as the \"light\" beers from macro breweries",
-    "price": "8.75",
-    "is_currently_available": true
-  },
-  {
-    "number": 26,
-    "remaining": 0,
-    "brewer": "Parallel 49 Brewing Company",
-    "name": "Craft Pilsner",
-    "colour": "#FAC937",
-    "brewer_location": "East Vancouver, British Columbia",
-    "alcohol_by_volume": "5.0",
-    "ibu": 33,
-    "specific_style": "Pilsner",
-    "specific_style_colour": "#FAC937",
-    "general_style": "Lagers and Pilsners",
-    "general_style_colour": "#F1D744",
-    "description": "Inspired by the traditional Czech Pilsner style,this beer is crisp and refreshing with a rich and complex bready maltiness complimented by the slightly spicy and floral hop character.",
     "price": "8.75",
     "is_currently_available": true
   },
@@ -120,7 +120,7 @@
   },
   {
     "number": 23,
-    "remaining": 37,
+    "remaining": 30,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Filthy Dirty West Coast IPA",
     "colour": "#F0A830",
@@ -136,25 +136,8 @@
     "is_currently_available": true
   },
   {
-    "number": 56,
-    "remaining": 84,
-    "brewer": "Parallel 49 Brewing Company",
-    "name": "Ginja Turtles Sour",
-    "colour": "#e9b567",
-    "brewer_location": "East Vancouver, British Columbia",
-    "alcohol_by_volume": "4.8",
-    "ibu": 7,
-    "specific_style": "Sour Ale",
-    "specific_style_colour": "#903018",
-    "general_style": "Lambics and Sours",
-    "general_style_colour": "#FF0000",
-    "description": "An easy-drinking sour ale. The refreshing aroma of lime and ginger along with the light tingling ginger spiciness. Moderately high clean sourness. Tastes like ginger limeade.",
-    "price": "8.75",
-    "is_currently_available": true
-  },
-  {
     "number": 46,
-    "remaining": 38,
+    "remaining": 32,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Golden Beach Australian Pale Ale",
     "colour": "#eaa65a",
@@ -171,7 +154,7 @@
   },
   {
     "number": 13,
-    "remaining": 30,
+    "remaining": 8,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Just Chillin'",
     "colour": "#d29626",
@@ -205,7 +188,7 @@
   },
   {
     "number": 50,
-    "remaining": 70,
+    "remaining": 50,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Lubelski Gold Polish Pilsner",
     "colour": "#f0dd83",
@@ -221,7 +204,7 @@
     "is_currently_available": true
   },
   {
-    "number": 11,
+    "number": 8,
     "remaining": 87,
     "brewer": "Parallel 49 Brewing Company",
     "name": "N2 Craft Stout",
@@ -239,7 +222,7 @@
   },
   {
     "number": 22,
-    "remaining": 45,
+    "remaining": 42,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Old Boy Classic Ale",
     "colour": "#301800",
@@ -256,7 +239,7 @@
   },
   {
     "number": 9,
-    "remaining": 9,
+    "remaining": 85,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Peach Bod Sparkling Ale",
     "colour": "#F09000",
@@ -273,7 +256,7 @@
   },
   {
     "number": 4,
-    "remaining": 8,
+    "remaining": 3,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Pulp Friction",
     "colour": "#f8a572",
@@ -290,7 +273,7 @@
   },
   {
     "number": 24,
-    "remaining": 38,
+    "remaining": 31,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Space Kitty",
     "colour": "#F09000",
@@ -307,7 +290,7 @@
   },
   {
     "number": 15,
-    "remaining": 85,
+    "remaining": 73,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Superdelic Time Machine",
     "colour": "#eaa118",
@@ -324,7 +307,7 @@
   },
   {
     "number": 25,
-    "remaining": 10,
+    "remaining": 7,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Trash Panda Northeast Hazy IPA",
     "colour": "#F09000",
@@ -341,7 +324,7 @@
   },
   {
     "number": 30,
-    "remaining": 61,
+    "remaining": 55,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Tricycle Grapefruit Radler",
     "colour": "#F79400",
@@ -357,8 +340,8 @@
     "is_currently_available": true
   },
   {
-    "number": 55,
-    "remaining": 37,
+    "number": 42,
+    "remaining": 91,
     "brewer": "Parallel 49 Brewing Company",
     "name": "What's the Craic?",
     "colour": "#893906",
@@ -375,7 +358,7 @@
   },
   {
     "number": 16,
-    "remaining": 63,
+    "remaining": 59,
     "brewer": "Rewind Beer Co.",
     "name": "BIG West Coast IPA",
     "colour": "#cd7e04",
@@ -391,8 +374,25 @@
     "is_currently_available": true
   },
   {
+    "number": 54,
+    "remaining": 83,
+    "brewer": "Rewind Beer Co.",
+    "name": "No Scrubs Key Lime Pie Sour",
+    "colour": "#F0C018",
+    "brewer_location": "Port Moody, British Columbia",
+    "alcohol_by_volume": "4.5",
+    "ibu": 10,
+    "specific_style": "Sour Ale",
+    "specific_style_colour": "#903018",
+    "general_style": "Lambics and Sours",
+    "general_style_colour": "#FF0000",
+    "description": "Hangin' out the passenger side with some keylime pie, trying some TLC (Tart Lime Citrus). This lightly sweet, pastry-filled fruit sour ain't chasing nothing but good times.",
+    "price": "9.75",
+    "is_currently_available": true
+  },
+  {
     "number": 17,
-    "remaining": 68,
+    "remaining": 61,
     "brewer": "Rewind Beer Co.",
     "name": "Rainbow Road",
     "colour": "#F09000",
@@ -426,7 +426,7 @@
   },
   {
     "number": 52,
-    "remaining": 27,
+    "remaining": 95,
     "brewer": "St. Augustine's",
     "name": "House Hazy IPA",
     "colour": "#B5A502",
@@ -443,7 +443,7 @@
   },
   {
     "number": 48,
-    "remaining": 52,
+    "remaining": 58,
     "brewer": "St. Augustine's",
     "name": "House Lager",
     "colour": "#F0D830",
@@ -460,7 +460,7 @@
   },
   {
     "number": 53,
-    "remaining": 89,
+    "remaining": 70,
     "brewer": "St. Augustine's",
     "name": "House Pale Ale",
     "colour": "#F0C030",
@@ -477,7 +477,7 @@
   },
   {
     "number": 45,
-    "remaining": 100,
+    "remaining": 92,
     "brewer": "Steamworks",
     "name": "Experimental Hazy IPA",
     "colour": "#DAA445",
@@ -494,7 +494,7 @@
   },
   {
     "number": 10,
-    "remaining": 79,
+    "remaining": 76,
     "brewer": "Steamworks",
     "name": "Heroica Red Ale",
     "colour": "#781800",
@@ -511,7 +511,7 @@
   },
   {
     "number": 20,
-    "remaining": 64,
+    "remaining": 56,
     "brewer": "Steamworks",
     "name": "Raspberry Tangerine Gummy Sour",
     "colour": "#AE0322",
@@ -528,7 +528,7 @@
   },
   {
     "number": 38,
-    "remaining": 84,
+    "remaining": 77,
     "brewer": "Steamworks",
     "name": "Triple Berry Sour",
     "colour": "#e693ea",
@@ -545,7 +545,7 @@
   },
   {
     "number": 44,
-    "remaining": 17,
+    "remaining": 2,
     "brewer": "Superflux Beer Co.",
     "name": "Colour & Shape",
     "colour": "#F79400",
@@ -562,7 +562,7 @@
   },
   {
     "number": 47,
-    "remaining": 51,
+    "remaining": 48,
     "brewer": "The Parkside Brewery",
     "name": "Dreamboat Hazy IPA",
     "colour": "#F0A830",
@@ -579,7 +579,7 @@
   },
   {
     "number": 7,
-    "remaining": 15,
+    "remaining": 6,
     "brewer": "The Parkside Brewery",
     "name": "Motel Pale Ale",
     "colour": "#F09000",
@@ -595,8 +595,25 @@
     "is_currently_available": true
   },
   {
+    "number": 41,
+    "remaining": 100,
+    "brewer": "Tipsy Twig",
+    "name": "Tipsy Twig Dry Cider",
+    "colour": "#f9e97a",
+    "brewer_location": "Vanvouver, BC",
+    "alcohol_by_volume": "5.4",
+    "ibu": 0,
+    "specific_style": "Cider",
+    "specific_style_colour": "#F0F0C0",
+    "general_style": "Ciders And Gluten Free",
+    "general_style_colour": "#F0F0C0",
+    "description": "Tipsy Twig in house-fermented dry cider. Clean fresh apple aroma and flavour. Hint of honey & cinnamon. Dry and refreshing.",
+    "price": "9.75",
+    "is_currently_available": true
+  },
+  {
     "number": 12,
-    "remaining": 53,
+    "remaining": 33,
     "brewer": "Truck 59 Ciderhouse",
     "name": "Honeyberry A La Mode",
     "colour": "#BC030E",
@@ -608,23 +625,6 @@
     "general_style": "Ciders And Gluten Free",
     "general_style_colour": "#F0F0C0",
     "description": "An intensely coloured & highly crushable collaboration between Cider Apples, Dessert Apples, Honeyberries. The “À la Mode” influence comes from just the faintest hint of Vanilla",
-    "price": "10.25",
-    "is_currently_available": true
-  },
-  {
-    "number": 41,
-    "remaining": 13,
-    "brewer": "Truck 59 Ciderhouse",
-    "name": "Peach Pie Okanagan Cider",
-    "colour": "#f8df91",
-    "brewer_location": "Kelowna, British Columbia",
-    "alcohol_by_volume": "6.5",
-    "ibu": 0,
-    "specific_style": "Cider",
-    "specific_style_colour": "#F0F0C0",
-    "general_style": "Ciders And Gluten Free",
-    "general_style_colour": "#F0F0C0",
-    "description": "Peach cider infused with cinnamon.",
     "price": "10.25",
     "is_currently_available": true
   }
