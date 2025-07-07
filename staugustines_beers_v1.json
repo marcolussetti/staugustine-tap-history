@@ -1,7 +1,7 @@
 [
   {
     "number": 29,
-    "remaining": 41,
+    "remaining": 38,
     "brewer": "Merridale Ciderworks",
     "name": "Cowichan Dry",
     "colour": "#F0F0C0",
@@ -18,7 +18,7 @@
   },
   {
     "number": 27,
-    "remaining": 77,
+    "remaining": 74,
     "brewer": "Merridale Ciderworks",
     "name": "Merri Berri Cider",
     "colour": "#770033",
@@ -35,7 +35,7 @@
   },
   {
     "number": 28,
-    "remaining": 6,
+    "remaining": 3,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Bohemian Rhapsody",
     "colour": "#b45c05",
@@ -68,8 +68,25 @@
     "is_currently_available": true
   },
   {
+    "number": 14,
+    "remaining": 100,
+    "brewer": "Parallel 49 Brewing Company",
+    "name": "Cannonball",
+    "colour": "#f99836",
+    "brewer_location": "East Vancouver, British Columbia",
+    "alcohol_by_volume": "4.6",
+    "ibu": 10,
+    "specific_style": "Wheat Ale",
+    "specific_style_colour": "#F0D830",
+    "general_style": "Wheat Beers",
+    "general_style_colour": "#F0D830",
+    "description": "A vibrant and refreshing wheat ale with tropical fruits character. Flavour of tangerine and mango balanced by grainy wheat. Light-bodied. Light haze. Easy drinking.",
+    "price": "8.75",
+    "is_currently_available": true
+  },
+  {
     "number": 19,
-    "remaining": 68,
+    "remaining": 65,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Lager",
     "colour": "#F09000",
@@ -103,7 +120,7 @@
   },
   {
     "number": 6,
-    "remaining": 100,
+    "remaining": 98,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Dad's Day Off",
     "colour": "#fcdc9f",
@@ -120,7 +137,7 @@
   },
   {
     "number": 23,
-    "remaining": 23,
+    "remaining": 22,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Filthy Dirty West Coast IPA",
     "colour": "#F0A830",
@@ -154,7 +171,7 @@
   },
   {
     "number": 13,
-    "remaining": 88,
+    "remaining": 77,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Just Chillin'",
     "colour": "#d29626",
@@ -171,7 +188,7 @@
   },
   {
     "number": 49,
-    "remaining": 10,
+    "remaining": 7,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Limitless GF Lager",
     "colour": "#ecaa3c",
@@ -188,7 +205,7 @@
   },
   {
     "number": 50,
-    "remaining": 22,
+    "remaining": 0,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Lubelski Gold Polish Pilsner",
     "colour": "#f0dd83",
@@ -205,7 +222,7 @@
   },
   {
     "number": 8,
-    "remaining": 75,
+    "remaining": 70,
     "brewer": "Parallel 49 Brewing Company",
     "name": "N2 Craft Stout",
     "colour": "#000000",
@@ -222,7 +239,7 @@
   },
   {
     "number": 22,
-    "remaining": 38,
+    "remaining": 37,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Old Boy Classic Ale",
     "colour": "#301800",
@@ -239,7 +256,7 @@
   },
   {
     "number": 9,
-    "remaining": 61,
+    "remaining": 48,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Peach Bod Sparkling Ale",
     "colour": "#F09000",
@@ -256,7 +273,7 @@
   },
   {
     "number": 4,
-    "remaining": 2,
+    "remaining": 0,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Pulp Friction",
     "colour": "#f8a572",
@@ -273,7 +290,7 @@
   },
   {
     "number": 24,
-    "remaining": 29,
+    "remaining": 25,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Space Kitty",
     "colour": "#F09000",
@@ -290,7 +307,7 @@
   },
   {
     "number": 15,
-    "remaining": 63,
+    "remaining": 60,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Superdelic Time Machine",
     "colour": "#eaa118",
@@ -307,7 +324,7 @@
   },
   {
     "number": 25,
-    "remaining": 2,
+    "remaining": 1,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Trash Panda Northeast Hazy IPA",
     "colour": "#F09000",
@@ -324,7 +341,7 @@
   },
   {
     "number": 30,
-    "remaining": 54,
+    "remaining": 41,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Tricycle Grapefruit Radler",
     "colour": "#F79400",
@@ -358,7 +375,7 @@
   },
   {
     "number": 16,
-    "remaining": 50,
+    "remaining": 48,
     "brewer": "Rewind Beer Co.",
     "name": "BIG West Coast IPA",
     "colour": "#cd7e04",
@@ -375,7 +392,7 @@
   },
   {
     "number": 54,
-    "remaining": 75,
+    "remaining": 71,
     "brewer": "Rewind Beer Co.",
     "name": "No Scrubs Key Lime Pie Sour",
     "colour": "#F0C018",
@@ -387,12 +404,12 @@
     "general_style": "Lambics and Sours",
     "general_style_colour": "#FF0000",
     "description": "Hangin' out the passenger side with some keylime pie, trying some TLC (Tart Lime Citrus). This lightly sweet, pastry-filled fruit sour ain't chasing nothing but good times.",
-    "price": "9.75",
+    "price": "8.75",
     "is_currently_available": true
   },
   {
     "number": 17,
-    "remaining": 52,
+    "remaining": 50,
     "brewer": "Rewind Beer Co.",
     "name": "Rainbow Road",
     "colour": "#F09000",
@@ -409,7 +426,7 @@
   },
   {
     "number": 51,
-    "remaining": 100,
+    "remaining": 99,
     "brewer": "Slackwater Brewing",
     "name": "Idleback Amber Ale",
     "colour": "#7a3403",
@@ -426,7 +443,7 @@
   },
   {
     "number": 52,
-    "remaining": 50,
+    "remaining": 37,
     "brewer": "St. Augustine's",
     "name": "House Hazy IPA",
     "colour": "#B5A502",
@@ -443,7 +460,7 @@
   },
   {
     "number": 48,
-    "remaining": 98,
+    "remaining": 51,
     "brewer": "St. Augustine's",
     "name": "House Lager",
     "colour": "#F0D830",
@@ -460,7 +477,7 @@
   },
   {
     "number": 53,
-    "remaining": 55,
+    "remaining": 48,
     "brewer": "St. Augustine's",
     "name": "House Pale Ale",
     "colour": "#F0C030",
@@ -477,7 +494,7 @@
   },
   {
     "number": 45,
-    "remaining": 84,
+    "remaining": 81,
     "brewer": "Steamworks",
     "name": "Experimental Hazy IPA",
     "colour": "#DAA445",
@@ -494,7 +511,7 @@
   },
   {
     "number": 10,
-    "remaining": 73,
+    "remaining": 70,
     "brewer": "Steamworks",
     "name": "Heroica Red Ale",
     "colour": "#781800",
@@ -511,7 +528,7 @@
   },
   {
     "number": 20,
-    "remaining": 51,
+    "remaining": 49,
     "brewer": "Steamworks",
     "name": "Raspberry Tangerine Gummy Sour",
     "colour": "#AE0322",
@@ -528,7 +545,7 @@
   },
   {
     "number": 38,
-    "remaining": 71,
+    "remaining": 69,
     "brewer": "Steamworks",
     "name": "Triple Berry Sour",
     "colour": "#e693ea",
@@ -545,7 +562,7 @@
   },
   {
     "number": 44,
-    "remaining": 86,
+    "remaining": 84,
     "brewer": "Superflux Beer Co.",
     "name": "Colour & Shape",
     "colour": "#F79400",
@@ -562,7 +579,7 @@
   },
   {
     "number": 47,
-    "remaining": 37,
+    "remaining": 31,
     "brewer": "The Parkside Brewery",
     "name": "Dreamboat Hazy IPA",
     "colour": "#F0A830",
@@ -579,7 +596,7 @@
   },
   {
     "number": 7,
-    "remaining": 1,
+    "remaining": 0,
     "brewer": "The Parkside Brewery",
     "name": "Motel Pale Ale",
     "colour": "#F09000",
@@ -596,7 +613,7 @@
   },
   {
     "number": 12,
-    "remaining": 94,
+    "remaining": 89,
     "brewer": "Tipsy Twig",
     "name": "Purple Rain Blackberry Cider",
     "colour": "#5f3292",
@@ -613,7 +630,7 @@
   },
   {
     "number": 41,
-    "remaining": 83,
+    "remaining": 81,
     "brewer": "Tipsy Twig",
     "name": "Tipsy Twig Dry Cider",
     "colour": "#f9e97a",
