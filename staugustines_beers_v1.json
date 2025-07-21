@@ -18,7 +18,7 @@
   },
   {
     "number": 27,
-    "remaining": 9,
+    "remaining": 6,
     "brewer": "Merridale Ciderworks",
     "name": "Merri Berri Cider",
     "colour": "#770033",
@@ -52,7 +52,7 @@
   },
   {
     "number": 28,
-    "remaining": 13,
+    "remaining": 11,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Bohemian Rhapsody",
     "colour": "#b45c05",
@@ -137,7 +137,7 @@
   },
   {
     "number": 26,
-    "remaining": 21,
+    "remaining": 18,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Pilsner",
     "colour": "#FAC937",
@@ -154,7 +154,7 @@
   },
   {
     "number": 6,
-    "remaining": 45,
+    "remaining": 44,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Dad's Day Off",
     "colour": "#fcdc9f",
@@ -205,7 +205,7 @@
   },
   {
     "number": 36,
-    "remaining": 23,
+    "remaining": 22,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Fuzzy Plunge",
     "colour": "#f6d492",
@@ -222,7 +222,7 @@
   },
   {
     "number": 46,
-    "remaining": 80,
+    "remaining": 77,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Golden Beach Australian Pale Ale",
     "colour": "#eaa65a",
@@ -239,7 +239,7 @@
   },
   {
     "number": 35,
-    "remaining": 43,
+    "remaining": 37,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Lightning Punch Sangria Sour",
     "colour": "#890f6e",
@@ -341,7 +341,7 @@
   },
   {
     "number": 4,
-    "remaining": 96,
+    "remaining": 94,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Pulp Friction",
     "colour": "#f8a572",
@@ -375,7 +375,7 @@
   },
   {
     "number": 15,
-    "remaining": 21,
+    "remaining": 20,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Superdelic Time Machine",
     "colour": "#eaa118",
@@ -409,7 +409,7 @@
   },
   {
     "number": 30,
-    "remaining": 7,
+    "remaining": 6,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Tricycle Grapefruit Radler",
     "colour": "#F79400",
@@ -426,7 +426,7 @@
   },
   {
     "number": 42,
-    "remaining": 58,
+    "remaining": 56,
     "brewer": "Rewind Beer Co.",
     "name": "BIG West Coast IPA",
     "colour": "#cd7e04",
@@ -460,7 +460,7 @@
   },
   {
     "number": 54,
-    "remaining": 12,
+    "remaining": 11,
     "brewer": "Rewind Beer Co.",
     "name": "No Scrubs Key Lime Pie Sour",
     "colour": "#F0C018",
@@ -477,7 +477,7 @@
   },
   {
     "number": 51,
-    "remaining": 49,
+    "remaining": 47,
     "brewer": "Slackwater Brewing",
     "name": "Idleback Amber Ale",
     "colour": "#7a3403",
@@ -494,7 +494,7 @@
   },
   {
     "number": 52,
-    "remaining": 35,
+    "remaining": 30,
     "brewer": "St. Augustine's",
     "name": "House Hazy IPA",
     "colour": "#B5A502",
@@ -511,7 +511,7 @@
   },
   {
     "number": 48,
-    "remaining": 64,
+    "remaining": 29,
     "brewer": "St. Augustine's",
     "name": "House Lager",
     "colour": "#F0D830",
@@ -528,7 +528,7 @@
   },
   {
     "number": 53,
-    "remaining": 5,
+    "remaining": 0,
     "brewer": "St. Augustine's",
     "name": "House Pale Ale",
     "colour": "#F0C030",
@@ -541,23 +541,6 @@
     "general_style_colour": "#CC8F00",
     "description": "A true balance of malt and hops that showcase the bready,caramel flavours of malted barley and the citrus, stone-fruit aromas of hops grown in the Pacific Northwest. Refreshingly drinkable and full of flavour.",
     "price": "8.25",
-    "is_currently_available": true
-  },
-  {
-    "number": 45,
-    "remaining": 3,
-    "brewer": "Steamworks",
-    "name": "Experimental Hazy IPA",
-    "colour": "#DAA445",
-    "brewer_location": "Vancouver, British Columbia",
-    "alcohol_by_volume": "7.0",
-    "ibu": 40,
-    "specific_style": "India Pale Ale",
-    "specific_style_colour": "#F09000",
-    "general_style": "Pale Ales and IPAs",
-    "general_style_colour": "#CC8F00",
-    "description": "This IPA is all of our favourite new hops jammed into one deliciously juicy beer - some of them are so new they don't even have names yet! These hops are tropical rockstars that boast flavours of intense peach nectar, pineapple juice, and vibrant gummy candy. There's a lot that goes into this beer, but ultimately all you to know is that it's F-ing delicious!",
-    "price": "8.75",
     "is_currently_available": true
   },
   {
@@ -579,7 +562,7 @@
   },
   {
     "number": 38,
-    "remaining": 17,
+    "remaining": 15,
     "brewer": "Steamworks",
     "name": "Triple Berry Sour",
     "colour": "#e693ea",
@@ -595,25 +578,8 @@
     "is_currently_available": true
   },
   {
-    "number": 44,
-    "remaining": 0,
-    "brewer": "Superflux Beer Co.",
-    "name": "Colour & Shape",
-    "colour": "#F79400",
-    "brewer_location": "Vancouver, British Columbia",
-    "alcohol_by_volume": "6.8",
-    "ibu": 40,
-    "specific_style": "India Pale Ale",
-    "specific_style_colour": "#F09000",
-    "general_style": "Pale Ales and IPAs",
-    "general_style_colour": "#CC8F00",
-    "description": "This is the kind of IPA we dream about. Unfiltered so nothing of the greatness gets lost. It is soft, with lots of tropical fruit notes and a touch of herbal quality. Incredibly drinkable and super delicious.",
-    "price": "8.75",
-    "is_currently_available": true
-  },
-  {
     "number": 37,
-    "remaining": 41,
+    "remaining": 40,
     "brewer": "The Parkside Brewery",
     "name": "I'm on a Boat",
     "colour": "#e8ba5e",
@@ -647,7 +613,7 @@
   },
   {
     "number": 12,
-    "remaining": 64,
+    "remaining": 61,
     "brewer": "Tipsy Twig",
     "name": "Purple Rain Blackberry Cider",
     "colour": "#5f3292",
@@ -681,7 +647,7 @@
   },
   {
     "number": 58,
-    "remaining": 91,
+    "remaining": 90,
     "brewer": "Truck 59 Ciderhouse",
     "name": "Bourbon Blackberry",
     "colour": "#A86048",
