@@ -1,24 +1,24 @@
 [
   {
-    "number": 29,
-    "remaining": 0,
-    "brewer": "Merridale Ciderworks",
-    "name": "Cowichan Dry",
-    "colour": "#F0F0C0",
-    "brewer_location": "Cobble Hill, British Columbia",
-    "alcohol_by_volume": "6.0",
-    "ibu": 0,
-    "specific_style": "Cider",
-    "specific_style_colour": "#F0F0C0",
-    "general_style": "Ciders And Gluten Free",
-    "general_style_colour": "#F0F0C0",
-    "description": "Fermented from a blend of English cider apples, it’s a perfect balance between sharps, bitters and a touch of fruitiness.",
-    "price": "10.25",
+    "number": 16,
+    "remaining": 99,
+    "brewer": "La Cerveceria Astilleros",
+    "name": "Salted Lime Lager",
+    "colour": "#F0C030",
+    "brewer_location": "North Vancouver, British Columbia",
+    "alcohol_by_volume": "4.6",
+    "ibu": 10,
+    "specific_style": "Lager",
+    "specific_style_colour": "#F1D744",
+    "general_style": "Lagers and Pilsners",
+    "general_style_colour": "#F1D744",
+    "description": "A light, latin american cerveza type beer with a modern twist. This is a crisp, clean lager made with Mexican limes and world-renowned salt sourced from El Valle Salado.",
+    "price": "8.75",
     "is_currently_available": true
   },
   {
     "number": 27,
-    "remaining": 1,
+    "remaining": 0,
     "brewer": "Merridale Ciderworks",
     "name": "Merri Berri Cider",
     "colour": "#770033",
@@ -35,7 +35,7 @@
   },
   {
     "number": 57,
-    "remaining": 92,
+    "remaining": 89,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Birra Verra Italian Pils",
     "colour": "#f7bc62",
@@ -52,7 +52,7 @@
   },
   {
     "number": 28,
-    "remaining": 2,
+    "remaining": 0,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Bohemian Rhapsody",
     "colour": "#b45c05",
@@ -69,7 +69,7 @@
   },
   {
     "number": 43,
-    "remaining": 86,
+    "remaining": 83,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Budgy Smuggler XPA",
     "colour": "#f5e5a3",
@@ -86,7 +86,7 @@
   },
   {
     "number": 14,
-    "remaining": 53,
+    "remaining": 49,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Cannonball",
     "colour": "#f99836",
@@ -103,7 +103,7 @@
   },
   {
     "number": 19,
-    "remaining": 89,
+    "remaining": 83,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Lager",
     "colour": "#F09000",
@@ -119,25 +119,8 @@
     "is_currently_available": true
   },
   {
-    "number": 21,
-    "remaining": 0,
-    "brewer": "Parallel 49 Brewing Company",
-    "name": "Craft Lager Lite",
-    "colour": "#F09000",
-    "brewer_location": "East Vancouver, British Columbia",
-    "alcohol_by_volume": "4.0",
-    "ibu": 0,
-    "specific_style": "Lager",
-    "specific_style_colour": "#F1D744",
-    "general_style": "Lagers and Pilsners",
-    "general_style_colour": "#F1D744",
-    "description": "A “light” version of P49’s Craft Lager…Clean, light-bodied, very refreshing and thirst-quenching pale lager. Low on both malt and hop flavour but not as flavourless as the \"light\" beers from macro breweries",
-    "price": "8.75",
-    "is_currently_available": false
-  },
-  {
     "number": 26,
-    "remaining": 9,
+    "remaining": 89,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Craft Pilsner",
     "colour": "#FAC937",
@@ -154,7 +137,7 @@
   },
   {
     "number": 6,
-    "remaining": 41,
+    "remaining": 40,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Dad's Day Off",
     "colour": "#fcdc9f",
@@ -171,7 +154,7 @@
   },
   {
     "number": 23,
-    "remaining": 8,
+    "remaining": 0,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Filthy Dirty West Coast IPA",
     "colour": "#F0A830",
@@ -188,7 +171,7 @@
   },
   {
     "number": 7,
-    "remaining": 66,
+    "remaining": 59,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Fist of the North Star Northern IPA",
     "colour": "#e7bd5a",
@@ -205,7 +188,7 @@
   },
   {
     "number": 36,
-    "remaining": 19,
+    "remaining": 94,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Fuzzy Plunge",
     "colour": "#f6d492",
@@ -222,7 +205,7 @@
   },
   {
     "number": 46,
-    "remaining": 73,
+    "remaining": 70,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Golden Beach Australian Pale Ale",
     "colour": "#eaa65a",
@@ -238,8 +221,42 @@
     "is_currently_available": true
   },
   {
+    "number": 18,
+    "remaining": 98,
+    "brewer": "Parallel 49 Brewing Company",
+    "name": "Hop PaTroll Shredder ",
+    "colour": "#dfb857",
+    "brewer_location": "East Vancouver, British Columbia",
+    "alcohol_by_volume": "5.0",
+    "ibu": 32,
+    "specific_style": "Pilsner",
+    "specific_style_colour": "#FAC937",
+    "general_style": "Lagers and Pilsners",
+    "general_style_colour": "#F1D744",
+    "description": "A single hop New Zealand Pilsner brewed with Nelson Sauvin. Aroma and flavour of guava, gooseberry, lychee, white grape with a hint of earthiness.",
+    "price": "8.25",
+    "is_currently_available": true
+  },
+  {
+    "number": 17,
+    "remaining": 99,
+    "brewer": "Parallel 49 Brewing Company",
+    "name": "Kommunbrauhaus Amber Kellerbier",
+    "colour": "#eeaf6b",
+    "brewer_location": "East Vancouver, British Columbia",
+    "alcohol_by_volume": "4.8",
+    "ibu": 25,
+    "specific_style": "Kellerbier",
+    "specific_style_colour": "#F1D744",
+    "general_style": "Lagers and Pilsners",
+    "general_style_colour": "#F1D744",
+    "description": "We collaborated with our good friends from Beva Brewing and Blending in the North Shore. We brewed an Amber Kellerbier, unfiltered lager, paying tribute to a centuries-old brewing and beer-serving tradition from eastern Bavaria, Zoiglbier. Pleasant floral and spicy hop characters are up front. Rich and flavourful yet light enough bready toasty malt in the backbone. Light amber colour with light haze from being unfiltered which adds complexity and body. As Octavio from Beva describes, “Kind of hoppy, kind of malty. Easy drinking but interesting.”",
+    "price": "8.75",
+    "is_currently_available": true
+  },
+  {
     "number": 35,
-    "remaining": 28,
+    "remaining": 8,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Lightning Punch Sangria Sour",
     "colour": "#890f6e",
@@ -273,7 +290,7 @@
   },
   {
     "number": 50,
-    "remaining": 1,
+    "remaining": 0,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Lubelski Gold Polish Pilsner",
     "colour": "#f0dd83",
@@ -290,7 +307,7 @@
   },
   {
     "number": 2,
-    "remaining": 89,
+    "remaining": 80,
     "brewer": "Parallel 49 Brewing Company",
     "name": "N2 Craft Stout",
     "colour": "#000000",
@@ -307,7 +324,7 @@
   },
   {
     "number": 22,
-    "remaining": 77,
+    "remaining": 75,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Old Boy Classic Ale",
     "colour": "#301800",
@@ -324,7 +341,7 @@
   },
   {
     "number": 9,
-    "remaining": 45,
+    "remaining": 32,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Peach Bod Sparkling Ale",
     "colour": "#F09000",
@@ -341,7 +358,7 @@
   },
   {
     "number": 4,
-    "remaining": 89,
+    "remaining": 78,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Pulp Friction",
     "colour": "#f8a572",
@@ -358,7 +375,7 @@
   },
   {
     "number": 24,
-    "remaining": 52,
+    "remaining": 51,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Space Kitty",
     "colour": "#F09000",
@@ -375,7 +392,7 @@
   },
   {
     "number": 15,
-    "remaining": 4,
+    "remaining": 0,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Superdelic Time Machine",
     "colour": "#eaa118",
@@ -409,7 +426,7 @@
   },
   {
     "number": 30,
-    "remaining": 99,
+    "remaining": 89,
     "brewer": "Parallel 49 Brewing Company",
     "name": "Tricycle Grapefruit Radler",
     "colour": "#F79400",
@@ -426,7 +443,7 @@
   },
   {
     "number": 42,
-    "remaining": 48,
+    "remaining": 39,
     "brewer": "Rewind Beer Co.",
     "name": "BIG West Coast IPA",
     "colour": "#cd7e04",
@@ -443,7 +460,7 @@
   },
   {
     "number": 54,
-    "remaining": 6,
+    "remaining": 3,
     "brewer": "Rewind Beer Co.",
     "name": "No Scrubs Key Lime Pie Sour",
     "colour": "#F0C018",
@@ -477,7 +494,7 @@
   },
   {
     "number": 52,
-    "remaining": 15,
+    "remaining": 0,
     "brewer": "St. Augustine's",
     "name": "House Hazy IPA",
     "colour": "#B5A502",
@@ -494,7 +511,7 @@
   },
   {
     "number": 48,
-    "remaining": 75,
+    "remaining": 17,
     "brewer": "St. Augustine's",
     "name": "House Lager",
     "colour": "#F0D830",
@@ -511,7 +528,7 @@
   },
   {
     "number": 53,
-    "remaining": 87,
+    "remaining": 83,
     "brewer": "St. Augustine's",
     "name": "House Pale Ale",
     "colour": "#F0C030",
@@ -528,7 +545,7 @@
   },
   {
     "number": 10,
-    "remaining": 23,
+    "remaining": 20,
     "brewer": "Steamworks",
     "name": "Heroica Red Ale",
     "colour": "#781800",
@@ -545,7 +562,7 @@
   },
   {
     "number": 38,
-    "remaining": 9,
+    "remaining": 5,
     "brewer": "Steamworks",
     "name": "Triple Berry Sour",
     "colour": "#e693ea",
@@ -562,7 +579,7 @@
   },
   {
     "number": 37,
-    "remaining": 36,
+    "remaining": 35,
     "brewer": "The Parkside Brewery",
     "name": "I'm on a Boat",
     "colour": "#e8ba5e",
@@ -579,7 +596,7 @@
   },
   {
     "number": 33,
-    "remaining": 88,
+    "remaining": 87,
     "brewer": "The Parkside Brewery",
     "name": "Motel Pale Ale",
     "colour": "#F09000",
@@ -596,7 +613,7 @@
   },
   {
     "number": 12,
-    "remaining": 50,
+    "remaining": 41,
     "brewer": "Tipsy Twig",
     "name": "Purple Rain Blackberry Cider",
     "colour": "#5f3292",
@@ -613,7 +630,7 @@
   },
   {
     "number": 41,
-    "remaining": 27,
+    "remaining": 24,
     "brewer": "Tipsy Twig",
     "name": "Tipsy Twig Dry Cider",
     "colour": "#f9e97a",
@@ -630,7 +647,7 @@
   },
   {
     "number": 58,
-    "remaining": 84,
+    "remaining": 82,
     "brewer": "Truck 59 Ciderhouse",
     "name": "Bourbon Blackberry",
     "colour": "#A86048",
