@@ -13,7 +13,7 @@
           uses: actions/checkout@v4
   
         - name: Set up Python 3.x
-          uses: actions/setup-python@v2
+          uses: actions/setup-python@v5
           with:
             python-version: '3.x'
   
@@ -24,8 +24,12 @@
   
         - name: Get and format api
           run: |-
-            # Fetch the latest data and save it as JSON
-            curl https://live-menu.staugustinesvancouver.com/taps.json | jq 'sort_by(.brewer, .name)' > staugustines_beers_v1.json
+            set -euo pipefail
+            # Fetch the latest data and save it as JSON, failing loudly on HTTP errors or non-array/empty payloads
+            curl -fsSL --retry 3 -o taps_raw.json -w 'HTTP %{http_code}, %{size_download} bytes\n' https://live-menu.staugustinesvancouver.com/taps.json
+            jq -e 'type == "array" and length > 0' taps_raw.json > /dev/null || { echo "Unexpected payload:"; head -c 1000 taps_raw.json; exit 1; }
+            jq 'sort_by(.brewer, .name)' taps_raw.json > staugustines_beers_v1.json
+            rm taps_raw.json
 
             cat staugustines_beers_v1.json | jq -r '
               (sort_by(.brewer, .name) | .[0] | keys_unsorted) as $keys |
@@ -33,7 +37,9 @@
             | @csv' > staugustines_beers_v1.csv
   
         - name: Append to yearly files
-          run: python3 scripts/yearly_files.py staugustines_beers_v1.json staugustines_beer_rotation_2025.json staugustines_beer_rotation_2025.csv
+          run: |-
+            year=$(TZ=America/Vancouver date +%Y)
+            python3 scripts/yearly_files.py staugustines_beers_v1.json "staugustines_beer_rotation_${year}.json" "staugustines_beer_rotation_${year}.csv"
   
         - name: Add results to repo
           run: |-
