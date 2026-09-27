@@ -10,7 +10,7 @@
     "alcohol_by_volume": 5.4,
     "ibu": 0,
     "colour": "#f9e97a",
-    "remaining": 57.69,
+    "remaining": 56.66,
     "description": "A refreshing dry cider with a luminous straw-gold hue. Its aroma evokes fresh apple skins, subtly intertwined with notes of cinnamon and vanilla, though no spices were added during its creation. Clean bright taste with refreshing tartness perfectly balanced by a touch of sweetness. Perfect for any occasion.",
     "price": 9.75
   },
@@ -130,7 +130,7 @@
     "alcohol_by_volume": 5.2,
     "ibu": 20,
     "colour": "#F0C030",
-    "remaining": 9.74,
+    "remaining": 8.16,
     "description": "Unfiltered hazy German wheat ale. Light banana ester and clove phenol from a German wheat ale yeast. Bready, doughy wheat malt flavour with chewy, creamy mouthfeel. ",
     "price": 8.75
   },
@@ -385,7 +385,7 @@
     "alcohol_by_volume": 4.6,
     "ibu": 28,
     "colour": "#000000",
-    "remaining": 84.07,
+    "remaining": 83.33,
     "description": "A dry Caribbean style stout with rich coffee and chocolate notes. Beautiful cascade and smooth velvety mouthfeel from the nitro.",
     "price": 8.75
   },
@@ -580,7 +580,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 18,
     "colour": "#F0D830",
-    "remaining": 84.5,
+    "remaining": 82.95,
     "description": "Bavarian-style craft lager by Parallel 49.",
     "price": 8.25
   },
@@ -655,7 +655,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 10,
     "colour": "#F0C030",
-    "remaining": 44.74,
+    "remaining": 44.66,
     "description": "Extra light, dry, and refreshing, this lager has little floral and lemon notes from the hops combined with smoothness from the rice.",
     "price": 8.75
   },
