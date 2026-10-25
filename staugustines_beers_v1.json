@@ -10,7 +10,7 @@
     "alcohol_by_volume": 5.4,
     "ibu": 0,
     "colour": "#f9e97a",
-    "remaining": 60.53,
+    "remaining": 40.82,
     "description": "A refreshing dry cider with a luminous straw-gold hue. Its aroma evokes fresh apple skins, with notes of cinnamon and vanilla, though no spices were added during its creation. Clean bright taste with refreshing tartness perfectly balanced by a touch of sweetness. Perfect for any occasion.",
     "price": 9.75
   },
@@ -25,7 +25,7 @@
     "alcohol_by_volume": 5.4,
     "ibu": 32,
     "colour": "#301800",
-    "remaining": 42.79,
+    "remaining": 35.48,
     "description": "This London Porter is brewed with roasty, rich and velvety malts that honour the 18th-century British classic.",
     "price": 8.75
   },
@@ -40,7 +40,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 2,
     "colour": "#2BFDDA",
-    "remaining": 94.64,
+    "remaining": 76.99,
     "description": "A tropical smoothie style sour inspired by a certain fast food taco spot’s exclusive soft drink flavour. Baja Blast. Brewed with additions of lime, coconut, pineapple, lemona, and our secret ingredient Blue Spuralina.",
     "price": 8.75
   },
@@ -55,23 +55,23 @@
     "alcohol_by_volume": 4.6,
     "ibu": 10,
     "colour": "#F0C030",
-    "remaining": 89.93,
+    "remaining": 74.62,
     "description": "A light, latin american cerveza type beer with a modern twist. This is a crisp, clean lager made with Mexican limes and world-renowned salt sourced from El Valle Salado.",
     "price": 8.75
   },
   {
     "number": 53,
     "is_currently_available": true,
-    "name": "Merri Berri",
+    "name": "Mo'Moro Blood Orange Hopped Cider",
     "brewer": "Merridale Ciderworks",
     "brewer_location": "Cobble Hill, British Columbia",
     "specific_style": "Cider",
     "general_style": "Ciders And Gluten Free",
     "alcohol_by_volume": 6.0,
-    "ibu": 0,
-    "colour": "#EC9DC7",
-    "remaining": 0.0,
-    "description": "A refreshing blend of local apples fermented slowly, then blended with black currant, cherry and raspberry juices. Sweet, but balanced with acidity and mild tannins from the berries. ",
+    "ibu": 10,
+    "colour": "#D87818",
+    "remaining": 89.95,
+    "description": "An effervescent cider, dry hopped with Mosaic hops and refreshed with Moro Blood Orange Juice. Crafted from a blend of English cider apples, it’s the perfect balance between sharps, bitters, and hoppy fruitiness.",
     "price": 10.25
   },
   {
@@ -85,23 +85,8 @@
     "alcohol_by_volume": 5.7,
     "ibu": 6,
     "colour": "#F0EFB5",
-    "remaining": 91.12,
+    "remaining": 72.85,
     "description": "Crafted with real tequila, zesty lime, and a touch of sea salt, our Tequila Shandy Sour Ale offers a unique experience. The fragrant tequila aroma and refreshing lime zest blend seamlessly with a moderate, balanced sourness and a subtle salinity, creating the perfect summery, cocktail-inspired sour ale.",
-    "price": 8.75
-  },
-  {
-    "number": 37,
-    "is_currently_available": true,
-    "name": "Ancient Grains West African Coast Session Ale",
-    "brewer": "Parallel 49 Brewing Company",
-    "brewer_location": "East Vancouver, British Columbia",
-    "specific_style": "India Session Ale",
-    "general_style": "Pale Ales and IPAs",
-    "alcohol_by_volume": 5.0,
-    "ibu": 30,
-    "colour": "#E1C336",
-    "remaining": 2.28,
-    "description": "Brewed in collaboration with Country Malt Group to celebrate the World Cup, this hoppy session ale features the unique addition of fonio, an ancient African grain that lends tropical fruit notes. Idaho 7, Mosaic and Sabro hops contribute aromas of white wine, lychee, gooseberry and cataloupe, balanced by a subtle creamy character. It offers a soft, pillowy mouthfeel and a clean, refreshing bitterness.",
     "price": 8.75
   },
   {
@@ -115,7 +100,7 @@
     "alcohol_by_volume": 6.0,
     "ibu": 20,
     "colour": "#F0C030",
-    "remaining": 75.62,
+    "remaining": 64.98,
     "description": "Moderately strong slightly malt-forward pale German lager. Rich yet not heavy doughy, bready, and grainy malt flavour from a combination of Pilsner, Munich, and Vienna malt. Floral and spicy hop notes with medium bitterness. Clean and moderately dry finish.",
     "price": 8.75
   },
@@ -130,7 +115,7 @@
     "alcohol_by_volume": 4.8,
     "ibu": 5,
     "colour": "#F09000",
-    "remaining": 55.53,
+    "remaining": 35.87,
     "description": "Refreshingly floral, citrusy, and minty hop aroma and flavour from German Hallertau Mittelfrueh, and Saphir hops. Crisp, grainy, malt character from German and Canadian Pilsner malt.",
     "price": 8.75
   },
@@ -145,7 +130,7 @@
     "alcohol_by_volume": 5.2,
     "ibu": 20,
     "colour": "#F0C030",
-    "remaining": 6.22,
+    "remaining": 2.05,
     "description": "Unfiltered hazy German wheat ale. Light banana ester and clove phenol from a German wheat ale yeast. Bready, doughy wheat malt flavour with chewy, creamy mouthfeel. ",
     "price": 8.75
   },
@@ -160,7 +145,7 @@
     "alcohol_by_volume": 4.9,
     "ibu": 10,
     "colour": "#F09000",
-    "remaining": 97.36,
+    "remaining": 85.07,
     "description": "A dry, dark German lager with restraint roastiness. Moderate date chocolate notes on the crisp bready malt backbone. Light floral hop notes. Medium-high bitterness. Dry, very clean finish.",
     "price": 8.75
   },
@@ -175,7 +160,7 @@
     "alcohol_by_volume": 4.9,
     "ibu": 6,
     "colour": "#F4C61F",
-    "remaining": 42.14,
+    "remaining": 40.11,
     "description": "This refreshing sour ale was brewed with real pineapple and coconut to capture the essence of a classic piña colada. The beer opens with a tropical aroma that leads into a light, clean sourness, making it incredibly quaffable. Perfectly balanced and very easy drinking.",
     "price": 8.75
   },
@@ -190,7 +175,7 @@
     "alcohol_by_volume": 8.0,
     "ibu": 63,
     "colour": "#D4AC00",
-    "remaining": 70.8,
+    "remaining": 60.37,
     "description": "Cobra Clutch is a hazy double IPA packed with vibrant flavors and aromas. Generously hopped with Ahtanum, Cascade, and Mosaic hops, it delivers juicy citrus, mango, and floral notes that perfectly complement its hazy and refreshing body. Despite its bold hop character and higher ABV, this DIPA remains smooth and easy-drinking, offering a fragrant and well-balanced experience. Ideal for hop enthusiasts, Cobra Clutch combines intensity with approachability in every sip.",
     "price": 8.75
   },
@@ -205,7 +190,7 @@
     "alcohol_by_volume": 6.5,
     "ibu": 47,
     "colour": "#cd7e04",
-    "remaining": 41.89,
+    "remaining": 39.68,
     "description": "An easy-drinking West Coast IPA. Aroma and flavour of passionfruit, blueberry, gooseberry, and grapefruit. Firm pleasant bitterness. Grainy malt with a slight hint of toffee and sweetness. Light body and clean dry finish.",
     "price": 8.75
   },
@@ -220,7 +205,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 5,
     "colour": "#F09000",
-    "remaining": 2.27,
+    "remaining": 0.0,
     "description": "A light, clean lager with a hint of malt and subtle hop flavour. An iconic East Van beer. Clean, crisp and refreshing. A pale lager brewed with all malted barley and local Sterling hops grown at Sartori Cedar Ranch in Chilliwack, BC. Fermented cool using a traditional German lager yeast.",
     "price": 8.75
   },
@@ -235,7 +220,7 @@
     "alcohol_by_volume": 4.0,
     "ibu": 0,
     "colour": "#F09000",
-    "remaining": 62.82,
+    "remaining": 52.78,
     "description": "A “light” version of P49’s Craft Lager…Clean, light-bodied, very refreshing and thirst-quenching pale lager. Low on both malt and hop flavour but not flavourless.",
     "price": 8.75
   },
@@ -265,7 +250,7 @@
     "alcohol_by_volume": 4.9,
     "ibu": 6,
     "colour": "#E15677",
-    "remaining": 92.6,
+    "remaining": 85.59,
     "description": "This easy-drinking and refreshings sour wheat ale offers a fragrant raspberry aroma leading into a refreshing watermelon aftertaste. The sourness is light, making it veyr approachable, and it pours a beautiful pale crimson colour.",
     "price": 8.75
   },
@@ -280,7 +265,7 @@
     "alcohol_by_volume": 4.9,
     "ibu": 33,
     "colour": "#E9D76C",
-    "remaining": 74.75,
+    "remaining": 72.03,
     "description": "A pale and hoppy ale brewed with lager yeast to achieve the clean, crisp, refreshing character of a lager combined with the flavor of a pale ale. It is brewed with Red Shed Malt’s Penhold Pilsner malt and a blend of Krush, Mosaic, and Nelson Sauvin hops, which deliver notes of passionfruit, white grape, grapefruit, and a hint of berries. This brew features a light, grainy malt profile, a medium-high bitterness, and a crisp, dry finish.",
     "price": 8.75
   },
@@ -295,7 +280,7 @@
     "alcohol_by_volume": 7.2,
     "ibu": 66,
     "colour": "#F0A830",
-    "remaining": 48.25,
+    "remaining": 46.5,
     "description": " A west coast IPA with a ton of hop flavour and aroma.\r\n Subtle sweet malt flavour backs up the huge amount of orange,\r\n grapefruit, pine and floral aromas this beer expels.",
     "price": 8.75
   },
@@ -310,7 +295,7 @@
     "alcohol_by_volume": 3.8,
     "ibu": 6,
     "colour": "#F0C030",
-    "remaining": 33.17,
+    "remaining": 29.15,
     "description": "This easy-drinking sour ale features a refreshing blend of earthy ginger and zesty lime. It offers a clean, moderate sourness complemented by an inviting citrus aroma and a subtle ginger-induced tingling on the palate.",
     "price": 8.75
   },
@@ -340,7 +325,7 @@
     "alcohol_by_volume": 5.9,
     "ibu": 67,
     "colour": "#E9D76C",
-    "remaining": 89.44,
+    "remaining": 86.86,
     "description": "This wheat IPA was brewed in collaboration with Country Malt Group to celebrate the World Cup featuring New Zealand hops, Nelson Sauvin and Motueka. It boasts a huge fruit notes of kiwi, lychee, white grape, and guava, balanced by a soft, velvety, and chewy mouthfeel derived from a large portion of wheat. A firm bitterness ensures for a crisp finish.",
     "price": 8.75
   },
@@ -355,7 +340,7 @@
     "alcohol_by_volume": 4.5,
     "ibu": 18,
     "colour": "#f2cc8f",
-    "remaining": 0.0,
+    "remaining": 98.12,
     "description": "A crisp, and refreshing Mexican-style lager.",
     "price": 8.75
   },
@@ -370,7 +355,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 18,
     "colour": "#ecaa3c",
-    "remaining": 19.47,
+    "remaining": 17.81,
     "description": "A gluten-free lager brewed without using gluten-containing ingredients. Delicate herbal and spicy German Perle hop character.",
     "price": 8.75
   },
@@ -385,7 +370,7 @@
     "alcohol_by_volume": 6.5,
     "ibu": 40,
     "colour": "#000000",
-    "remaining": 66.53,
+    "remaining": 57.71,
     "description": "All treat, no trick: this rich, robust Chocolate Pumpkin Porter is so good, even the living dead will indulge.",
     "price": 8.75
   },
@@ -400,7 +385,7 @@
     "alcohol_by_volume": 4.6,
     "ibu": 28,
     "colour": "#000000",
-    "remaining": 62.08,
+    "remaining": 47.75,
     "description": "A dry Caribbean style stout with rich coffee and chocolate notes. Beautiful cascade and smooth velvety mouthfeel from the nitro.",
     "price": 8.75
   },
@@ -415,7 +400,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 40,
     "colour": "#301800",
-    "remaining": 35.29,
+    "remaining": 30.73,
     "description": "Rich malt flavours of caramel, toffee and light chocolate. This ale is an ode to the pub beers of England. Well balanced flavours of malts and hops make this beer a classic.",
     "price": 8.75
   },
@@ -430,7 +415,7 @@
     "alcohol_by_volume": 4.1,
     "ibu": 15,
     "colour": "#510C11",
-    "remaining": 13.24,
+    "remaining": 98.31,
     "description": "This English dark mild ale was brewed in collaboration with Country Malt Group to celebrate the World Cup. It features notes of hazelnuts and dark toast with a hint of brown sugar and raisin. Light and dry with a moderate bitterness, it is a highly crushable yet malty and flavorful ale long celebrated in British pub culture.",
     "price": 8.75
   },
@@ -445,7 +430,7 @@
     "alcohol_by_volume": 5.1,
     "ibu": 5,
     "colour": "#fd6d4d",
-    "remaining": 1.78,
+    "remaining": 87.59,
     "description": "Vibrant and empowering Tropical Hibiscus POG(passionfruit, orange, guava).",
     "price": 8.75
   },
@@ -460,7 +445,7 @@
     "alcohol_by_volume": 7.0,
     "ibu": 11,
     "colour": "#9E3D7B",
-    "remaining": 46.11,
+    "remaining": 38.8,
     "description": "This extra-strong raspberry lemon radler opens with an aromatic burst of sun-ripened berries and sharp, zesty citrus. Built on a crisp, clean lager base, it delivers a wave of juicy raspberry sweetness that is balanced by the refreshing, tart tang of lemonade.",
     "price": 8.75
   },
@@ -475,7 +460,7 @@
     "alcohol_by_volume": 6.2,
     "ibu": 16,
     "colour": "#E9D76C",
-    "remaining": 81.48,
+    "remaining": 79.04,
     "description": "We collaborated with Blind Enthusiasm Brewery in Edmonton to merge our award winning Brett Saison recipe and Blind Enthusiasm's house microbe culture sourced directly from their barrels. Dryhopped with Amarillo and Saphir after 4 months of fermentaion, then keg conditioned for natural carbonation. Passionfruit, lime, pineapple and apricot flavor with a hint of funk. Failry dry finish with gentle tannin and salinity in the aftertaste.",
     "price": 8.75
   },
@@ -490,7 +475,7 @@
     "alcohol_by_volume": 4.8,
     "ibu": 17,
     "colour": "#D86000",
-    "remaining": 75.22,
+    "remaining": 70.91,
     "description": "This clean, easy-drinking amber lager has a light yet rich grainy malt with a hint of biscuit and nuttiness. A moderately low bitterness provides balance, with a citrus and herbal aroma from the restrained use of Citra hop. Its light amber color makes it an ideal companion for the colder season.",
     "price": 8.75
   },
@@ -505,7 +490,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 40,
     "colour": "#903000",
-    "remaining": 61.57,
+    "remaining": 44.8,
     "description": "This hearty, malty lager is warmed by the mighty pumpkin and lifted with notes of cinnamon, nutmeg, all-spice and ginger",
     "price": 8.75
   },
@@ -520,7 +505,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 40,
     "colour": "#F09000",
-    "remaining": 26.11,
+    "remaining": 18.69,
     "description": "Hoppy, sessionable juicy IPA. Hop aroma of pineappple, mango, peach, pear, and lime from Mosaic, Amarillo and Citra Cryo dryhop. Light crisp grainy malt flavour. Light ceamy mouthfeel from oats and wheat. Great combination of juicy, hoppy, and sessionable.\n",
     "price": 8.75
   },
@@ -535,7 +520,7 @@
     "alcohol_by_volume": 5.5,
     "ibu": 37,
     "colour": "#F09000",
-    "remaining": 4.42,
+    "remaining": 0.0,
     "description": "Trash Panda uses huge amounts of dry hopping, giving this beer complex notes of melon, tropical fruit and pear. Its hop and malt varieties leave a visible haziness and smooth, juicy mouth feel. ",
     "price": 8.75
   },
@@ -565,7 +550,7 @@
     "alcohol_by_volume": 5.4,
     "ibu": 6,
     "colour": "#5f3292",
-    "remaining": 66.8,
+    "remaining": 58.79,
     "description": "A unique sour brewed with lavender flowers and blueberries, this beer presents a fragrant and perfectly balanced fresh lavender aroma. The palate reveals a light blueberry flavor, finishing with a hint of blueberry skin polyphenol, all within a striking deep purple colour.",
     "price": 8.75
   },
@@ -580,7 +565,7 @@
     "alcohol_by_volume": 4.9,
     "ibu": 17,
     "colour": "#F8DD74",
-    "remaining": 56.61,
+    "remaining": 54.29,
     "description": " This unique Session IPA, brewed in collaboration with Tool Shed Brewing in Calgary features the innovative Cryo Fresh Krush hops from Yakima Chief Hops. By using this concentrated, unkilned pellet hops made from harvest-fresh whole-cone hops, we've captured an incredibly vivid and intense aroma, bursting with notes ofred grapefruit, yuzu, guava, passionfruit, and a hint of gooseberry. Delivering assertive bitterness that yields to a refreshingly dry finish.",
     "price": 8.75
   },
@@ -595,7 +580,7 @@
     "alcohol_by_volume": 6.0,
     "ibu": 35,
     "colour": "#E9D76C",
-    "remaining": 31.59,
+    "remaining": 26.58,
     "description": "This New England style hazy IPA is defined by bright notes of citurs, peach and tangerine.",
     "price": 8.75
   },
@@ -610,7 +595,7 @@
     "alcohol_by_volume": 5.5,
     "ibu": 25,
     "colour": "#7a3403",
-    "remaining": 88.9,
+    "remaining": 82.72,
     "description": "This amber ale combines the best ingredients that Europe and North America have to offer. Belgian crystal malts provide notes of dark fruit and raisins and Cascade hops provide a slight bitterness and a hint of fresh pine.",
     "price": 8.75
   },
@@ -625,7 +610,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 15,
     "colour": "#B5A502",
-    "remaining": 0.0,
+    "remaining": 76.71,
     "description": "St Augustines Hazy IPA",
     "price": 8.25
   },
@@ -640,7 +625,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 18,
     "colour": "#F0D830",
-    "remaining": 30.21,
+    "remaining": 55.71,
     "description": "Bavarian-style craft lager by Parallel 49.",
     "price": 8.25
   },
@@ -655,7 +640,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 40,
     "colour": "#F0C030",
-    "remaining": 64.21,
+    "remaining": 51.4,
     "description": "A true balance of malt and hops that showcase the bready,caramel flavours of malted barley and the citrus, stone-fruit aromas of hops grown in the Pacific Northwest. Refreshingly drinkable and full of flavour.",
     "price": 8.25
   },
@@ -670,7 +655,7 @@
     "alcohol_by_volume": 6.0,
     "ibu": 40,
     "colour": "#000000",
-    "remaining": 78.91,
+    "remaining": 66.48,
     "description": "This porter offers a full body and rich chocolate flavours from a well-balanced combination of toasted and chocolate malts, while hand-harvested Pacific Ocean Fleur de Sel from Vancouver Island Salt Co. gives it an intriging floursh on the finish ",
     "price": 8.75
   },
@@ -685,7 +670,7 @@
     "alcohol_by_volume": 6.8,
     "ibu": 40,
     "colour": "#F79400",
-    "remaining": 68.34,
+    "remaining": 54.82,
     "description": "This is the kind of IPA we dream about. Unfiltered so nothing of the greatness gets lost. It is soft, with lots of tropical fruit notes and a touch of herbal quality. Incredibly drinkable and super delicious.",
     "price": 8.75
   },
@@ -700,7 +685,7 @@
     "alcohol_by_volume": 7.0,
     "ibu": 40,
     "colour": "#C06000",
-    "remaining": 92.6,
+    "remaining": 86.27,
     "description": "A crisp malt body, green tropical fruit, lime, guava pepper notes and a soft bitterness. Hopped with Mosaic and Citra. ",
     "price": 8.75
   },
@@ -715,7 +700,7 @@
     "alcohol_by_volume": 5.0,
     "ibu": 10,
     "colour": "#F0C030",
-    "remaining": 39.42,
+    "remaining": 32.42,
     "description": "Extra light, dry, and refreshing, this lager has little floral and lemon notes from the hops combined with smoothness from the rice.",
     "price": 8.75
   },
@@ -730,7 +715,7 @@
     "alcohol_by_volume": 5.3,
     "ibu": 30,
     "colour": "#D4AC00",
-    "remaining": 95.2,
+    "remaining": 93.38,
     "description": "A dry-hopped west coast pale ale with an emphasis on hop flavour rather than bitterness. Subtle malt combined with hop aromatics create a highly satisfying pale ale for any occasion.",
     "price": 8.75
   },
@@ -745,7 +730,7 @@
     "alcohol_by_volume": 6.3,
     "ibu": 35,
     "colour": "#D89018",
-    "remaining": 84.33,
+    "remaining": 78.06,
     "description": "Light gold in colour with big juicy flavours of tropical fruit, lemon rind and peach from a mix of Cashmere, Mosaic, El Dorado & Citra hops. This heavily dry-hopped beauty truly is ‘an IPA for the People’.",
     "price": 8.75
   }
